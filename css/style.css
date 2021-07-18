@@ -498,9 +498,21 @@ footer{
         padding-right: 1rem;
     }
     .slide img{
-        width: 137px;
+        width: 180px;
     height: 150px;
     
+    }
+    .slide{
+        padding: 0px 1rem;
+    }
+    .slide p{
+        line-height: 1.2;
+    }
+    .heading + p{
+        margin-bottom: 1.5rem;
+    }
+    .slide h3{
+        padding-bottom: 1.2rem;
     }
     
 
